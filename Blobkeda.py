@@ -23,4 +23,3 @@ for file in blob_list:
        blob_client.delete_blob()
 
 game_db.commit()
-blob_client.delete_blob()
